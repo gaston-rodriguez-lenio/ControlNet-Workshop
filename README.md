@@ -15,7 +15,8 @@ Note: be carefull with the specific version you download or the base version of 
 Follow the steps on the original repository of Controlnet for Automatic 1111. Link to [installation guide](https://github.com/Mikubill/sd-webui-controlnet#installation)
 
 3. Download ControlNet models:
-  a. You have to download the Controlnet specific models, for example to use pose estimation download open-pose model.
+
+a. You have to download the Controlnet specific models, for example to use pose estimation download open-pose model.
 You need to download model files ending with ".pth"
 Here is a link to download sd 1.5 compatibile from [hugghing-face](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main). For sd XL check this [link](https://github.com/Mikubill/sd-webui-controlnet/tree/main#download-models-for-sdxl)
 
