@@ -27,4 +27,4 @@ b. Put models in your "stable-diffusion-webui\extensions\sd-webui-controlnet\mod
 
 # Usefull links
 
-[QR Monsters](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)
+Squint your eyes: [QR Monsters](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)
